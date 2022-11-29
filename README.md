@@ -1,2 +1,2 @@
-# DSSSHomewrork5
+# DSSSHomework5
 Homework 5 of Yasemin Erboga
